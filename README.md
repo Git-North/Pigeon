@@ -4,4 +4,5 @@ Pigeon is a piece of software that makes it easier to transmit live video feeds 
 
 Pigeon is mainly made using bend and rust. and uses pwsh for command line arguments
 
-Pigeons development is currently made in the background and will be available to public once it is at a point where it's usuable
+~~Pigeons development is currently made in the background and will be available to public once it is at a point where it's usuable~~
+Pigeon's development has been currently lost as I graduated and the code is stored in one of the school computers. I am working my hardest tp retrieve it
